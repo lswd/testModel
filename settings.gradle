@@ -1,0 +1,4 @@
+include ':model2'
+include ':model1'
+include ':app'
+rootProject.name = "testModel"
